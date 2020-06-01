@@ -1,0 +1,18 @@
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csprojAssemblyReference.cache
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+C:\Users\Petr\source\repos\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csprojAssemblyReference.cache
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.exe
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\bin\Debug\Lab1EncodeBase64.pdb
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csprojAssemblyReference.cache
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.csproj.CoreCompileInputs.cache
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.exe
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1EncodeBase64\Lab1EncodeBase64\obj\Debug\Lab1EncodeBase64.pdb

@@ -1,0 +1,12 @@
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.CoreCompileInputs.cache
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.exe
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.pdb
+D:\Student\Study\3 course\II semester\Computer systems\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csprojAssemblyReference.cache
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.exe
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\bin\Debug\Lab1InfoResearch.pdb
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csprojAssemblyReference.cache
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.csproj.CoreCompileInputs.cache
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.exe
+C:\Users\kaena\Desktop\CS\CS_labs\Laboratory work 1\Lab1InfoResearch\Lab1InfoResearch\obj\Debug\Lab1InfoResearch.pdb
